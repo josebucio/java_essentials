@@ -1,10 +1,9 @@
 package src1.tareas;
 
-public class Buggy0 {
-
+public class hola_mundo {
+	
 	public static void main(String[] args) {
-		//Input.print("hello, world\n");
-
+	System.out.print("Hello, world");
 	}
 
 }
